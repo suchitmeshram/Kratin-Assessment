@@ -19,4 +19,5 @@ Here is a daily routine I have made,
 11.	Take a walk for 10-15 min
 12.	Go to bed till 9:30 pm (sleep).    
 
-![Alt text](https://drive.google.com/file/d/1ap0wSaM-23GuL02m-c_g1IwGGmexN_tZ/view?usp=share_link "Code")
+![](https://drive.google.com/file/d/1ap0wSaM-23GuL02m-c_g1IwGGmexN_tZ/view?usp=share_link)
+
