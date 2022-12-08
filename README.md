@@ -18,6 +18,7 @@ Here is a daily routine I have made,
 10.	Dinner at 8:00pm, dinner should be light
 11.	Take a walk for 10-15 min
 12.	Go to bed till 9:30 pm (sleep).    
-
+![](code.png)
+![](output.png)
 
 
